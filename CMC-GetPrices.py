@@ -16,7 +16,7 @@ for i in range(len(currencies)):
 
     headers = {
         'Accepts':'application/json',
-        'X-CMC_PRO_API_KEY':'d0af1a54-ad28-4cdd-8667-4249643b5d8e'
+        'X-CMC_PRO_API_KEY':'XXXXXXX-XXXX-4cdd-XXXX-42XXXXXXX5d8e'
     }
 
     session = Session()
